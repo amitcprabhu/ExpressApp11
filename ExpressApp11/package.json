@@ -1,0 +1,15 @@
+{
+  "name": "ExpressApp11",
+  "version": "0.0.0",
+  "description": "ExpressApp11",
+  "main": "app.js",
+  "author": {
+    "name": "Amit_Prabhu",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
